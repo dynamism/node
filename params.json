@@ -1,0 +1,6 @@
+{
+  "name": "node",
+  "tagline": "basic bash system information script",
+  "body": "What:\r\n\r\nSimple BASH system information script\r\n\r\nD/L:\r\n\r\nwget file/src\r\nor\r\ngo get github.com/dynamism/node\r\n\r\nRun:\r\n\r\n$bash node.sh\r\n\r\nWarning: \r\n\r\nDo Not Install and or Run Scripts YOU DO NOT UNDERSTAND\r\n\r\nLicense:\r\n\r\nThe MIT License (MIT)\r\n\r\nCopyright 2016 -tek",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
