@@ -1,5 +1,5 @@
     #!/bin/bash
-    # octothorpe here - puhleeze, do not forget to chmod your bash .sh file ( $sudo chmod +x node.sh or $sudo chmod u+x node.sh ) 
+    # octothorpe here chmod ( $sudo chmod +x node.sh or $sudo chmod u+x node.sh ) 
     # prior to running your bash script - the former is sys wide the latter is user constrained
     # for those with an interest, this script may be of some use 
     date; 
