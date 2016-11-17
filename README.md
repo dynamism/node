@@ -36,7 +36,9 @@ Run:
 
 $chmod u+x node.sh or $sudo chmod +x node.sh 
 
-bash node.sh or sudo ./node.sh possibly drop an alias into your .bashrc - alias node='sudo ./node.sh'
+bash node.sh or sudo ./node.sh 
+</br>
+drop an alias into your .bashrc - alias node='sudo ./node.sh'
 
 
 license:
