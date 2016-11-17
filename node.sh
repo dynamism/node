@@ -1,7 +1,7 @@
     #!/bin/bash
     # node.sh
     # The MIT License (MIT) Copyright 2016 -tek
-    # octothorpe here chmod ( $sudo chmod +x node.sh or $sudo chmod u+x node.sh ) 
+    # octothorpe here oOO^<^OOo chmod ( $sudo chmod +x node.sh or $sudo chmod u+x node.sh ) 
     # prior to running your bash script - the former is sys wide the latter is user constrained
     # for those with an interest, this script may be of some use -tek
     date; 
