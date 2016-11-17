@@ -1,5 +1,14 @@
 # node
 
+<pre><code>
+                    __
+   ____  ____  ____/ /__ 
+  / __ \/ __ \/ __  / _ \
+ / / / / /_/ / /_/ /  __/
+/_/ /_/\____/\__,_/\___/ 
+                         
+</code></pre>
+
 basic bash system information script
 
 for those with an interest in automating some sys info tasks via BASH this .sh may be of some use
@@ -30,7 +39,6 @@ $chmod u+x node.sh or $sudo chmod +x node.sh
 bash node.sh or sudo ./node.sh possibly drop an alias into your .bashrc - alias node='sudo ./node.sh'
 
 
-
 license:
 
 
@@ -40,5 +48,5 @@ Copyright 2016 -tek
 
 https://opensource.org/licenses/MIT
 
-
+l8r
 
