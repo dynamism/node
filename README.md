@@ -23,7 +23,7 @@ selinux - https://selinuxproject.org/page/Main_Page   /// if not present within 
 /// <b>D/L:</b>
 <p>
 
-wget https://github.com/dynamism/node/blob/gh-pages/node.sh
+$wget https://github.com/dynamism/node/blob/gh-pages/node.sh
 <p>
 
 /// <b>Run:</b>
