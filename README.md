@@ -3,7 +3,7 @@
 /// <b>Why:</b>
 <p>
 
-for those with an interest in automating some sys info tasks via BASH this .sh may be of some use
+For those with an interest in automating some sys info tasks via BASH this .sh may be of some use
 
 node.sh requires certain system utilities in order to function effectively
 
