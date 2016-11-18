@@ -6,7 +6,7 @@
     # for those with an interest, this script may be of some use -tek
     date; 
     echo "Local Machine:"
-    inxi -Fz   /// function requires inxi CLI information tool - https://github.com/smxi/inxi
+    inxi -Fz   # function requires inxi CLI information tool - https://github.com/smxi/inxi
     echo "--------------------"
     echo "uptime:"
     uptime
@@ -61,7 +61,7 @@
     echo "--------------------"
     echo "current:"
     echo "--------------------"
-    systemd-analyze critical-chain
+    systemd-analyze critical-chain   # for systems with systemd - systemd-cgtop
     echo "--------------------"
     sestatus -v   ### applicable only when instances of selinux are loaded and active
     echo "--------------------"
