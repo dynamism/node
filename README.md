@@ -1,15 +1,7 @@
 # node
 
-<pre><code>
-                    __
-   ____  ____  ____/ /__ 
-  / __ \/ __ \/ __  / _ \
- / / / / /_/ / /_/ /  __/
-/_/ /_/\____/\__,_/\___/ 
-                         
-</code></pre>
+What:
 
-basic bash system information script
 
 for those with an interest in automating some sys info tasks via BASH this .sh may be of some use
 
@@ -32,6 +24,7 @@ D/L:
 
 wget https://github.com/dynamism/node/blob/gh-pages/node.sh
 
+
 Run:
 
 $chmod u+x node.sh or $sudo chmod +x node.sh 
@@ -42,7 +35,6 @@ drop an alias into your .bashrc - alias node='sudo ./node.sh'
 
 
 license:
-
 
 The MIT License (MIT)
 
