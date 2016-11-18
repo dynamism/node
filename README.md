@@ -32,7 +32,7 @@ wget https://github.com/dynamism/node/blob/gh-pages/node.sh
 $chmod u+x node.sh or $sudo chmod +x node.sh 
 
 bash node.sh or sudo ./node.sh 
-</p>
+</br></p>
 drop an alias into your .bashrc - alias node='sudo ./node.sh'
 <p>
 
