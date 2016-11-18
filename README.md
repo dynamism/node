@@ -29,7 +29,7 @@ wget https://github.com/dynamism/node/blob/gh-pages/node.sh
 /// <b>Run:</b>
 <p>
 <pre><code>
-$chmod u+x node.sh or $sudo chmod +x node.sh 
+$sudo chmod u+x node.sh or $sudo chmod +x node.sh 
 
 bash node.sh or sudo ./node.sh 
 </code></pre>
