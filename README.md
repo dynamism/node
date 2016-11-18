@@ -1,5 +1,5 @@
 # node
-
+<pre><code>
 /// <b>Why:</b>
 <p>
 
@@ -28,11 +28,10 @@ $wget https://github.com/dynamism/node/blob/gh-pages/node.sh
 
 /// <b>Run:</b>
 <p>
-<pre><code>
+
 $sudo chmod u+x node.sh or $sudo chmod +x node.sh 
 
 bash node.sh or sudo ./node.sh 
-</code></pre>
 </p>
 
 drop an alias into your .bashrc - alias node='sudo ./node.sh'
@@ -49,4 +48,5 @@ Copyright 2016 -tek
 https://opensource.org/licenses/MIT
 
 l8r
+</code></pre>
 
