@@ -61,7 +61,7 @@
     echo "--------------------"
     echo "current:"
     echo "--------------------"
-    systemd-analyze critical-chain   # for systems with systemd - systemd-cgtop
+    systemd-analyze critical-chain   # for systems with systemd - $systemd-cgtop
     echo "--------------------"
     sestatus -v   ### applicable only when instances of selinux are loaded and active
     echo "--------------------"
