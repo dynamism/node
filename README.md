@@ -17,7 +17,7 @@ ps -      http://linuxcommand.org/man_pages/ps1.html
 
 mtr -     http://linuxcommand.org/man_pages/mtr8.html
 
-selinux - https://selinuxproject.org/page/Main_Page   /// if not present within target node, rem or remove command
+selinux - https://selinuxproject.org/page/Main_Page   /// if not present within target node, rem or remove
 <p>
 
 /// <b>D/L:</b>
