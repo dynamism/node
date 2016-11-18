@@ -9,13 +9,13 @@ node.sh requires certain system utilities in order to function effectively
 
 inxi -    https://github.com/smxi/inxi
 
+pydf -    http://kassiopeia.juls.savba.sk/~garabik/software/pydf/
+
 nmap -    http://linuxcommand.org/man_pages/nmap1.html
 
 vmstat -  http://linuxcommand.org/man_pages/vmstat8.html
 
 ps -      http://linuxcommand.org/man_pages/ps1.html
-
-pydf -    http://kassiopeia.juls.savba.sk/~garabik/software/pydf/
 
 mtr -     http://linuxcommand.org/man_pages/mtr8.html
 
